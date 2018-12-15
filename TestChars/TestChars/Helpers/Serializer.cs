@@ -8,5 +8,8 @@ namespace TestChars.Helpers
 {
     class Serializer
     {
+        
+        //cODE WAS EDITED FROM gIThUB
+        
     }
 }
