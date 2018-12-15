@@ -13,5 +13,6 @@ namespace TestChars.Helpers
             return a + b;
         }
         //line from conflictBranch
+        //ANOTHE LINE
     }
 }
