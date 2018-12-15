@@ -8,9 +8,9 @@ namespace TestChars.Helpers
 {
     public class Parser
     {
-        static int Parse(int a, int b)
+        static int Parse(int a, int b, int c)
         {
-            return a + b;
+            return (a + b)^c;
         }
 
     }
