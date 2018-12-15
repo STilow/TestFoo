@@ -10,7 +10,8 @@ namespace TestChars.Helpers
     {
         static int Parse(int a, int b, int c)
         {
-            return (a + b)^c;
+            int i = 50;
+            return (a + b)^c + i;
         }
 
     }
