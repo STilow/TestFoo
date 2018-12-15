@@ -16,3 +16,4 @@ namespace TestChars.Helpers
 
     }
 }
+//NO NEED TO KEEP CONFLICT BRANCH
