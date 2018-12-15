@@ -18,6 +18,7 @@ namespace TestChars.Helpers
             string JsonStr = File.ReadAllText(@"C:\Users\Sky\source\repos\JsonTest\JsonTest\Data\JsonString.json");
             Customer c1 = ser.Deserialize<Customer>(JsonStr);
             Console.WriteLine($"{c1.FirstName} {c1.LastName} {c1.Age}");
+            Console.WriteLine("TestLine");
             Console.ReadLine();
 
         }
