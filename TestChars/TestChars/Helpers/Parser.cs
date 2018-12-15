@@ -13,7 +13,8 @@ namespace TestChars.Helpers
             int i = 50;
             return (a + b)^c + i;
         }
-
+        //line from conflictBranch
+        //ANOTHE LINE
     }
 }
 //NO NEED TO KEEP CONFLICT BRANCH
